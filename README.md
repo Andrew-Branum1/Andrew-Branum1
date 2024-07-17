@@ -1,5 +1,5 @@
 <h1 align="center">Hello, I'm Andrew Branum</h1>
-<h3 align="center">A graduate student attending the University of Louisville within the CSE program</h3>
+<h3 align="center">A graduate student attending the University of Louisville working towards my Masters Degree in Computer Science and Engineering</h3>
 
 - I’m currently working on **fixing up my github and finding a new project**
 
